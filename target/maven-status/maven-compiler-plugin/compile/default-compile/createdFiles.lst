@@ -29,6 +29,7 @@ com\portfolio\ear\Dto\dtoEducacion.class
 com\portfolio\ear\Security\Service\UsuarioService.class
 com\portfolio\ear\Security\Dto\JwtDto.class
 com\portfolio\ear\Security\Service\UserDetailsImpl.class
+com\portfolio\ear\WebConfig.class
 com\portfolio\ear\Entity\Proyectos.class
 com\portfolio\ear\Security\jwt\JwtEntryPoint.class
 com\portfolio\ear\Dto\dtoExperiencia.class
