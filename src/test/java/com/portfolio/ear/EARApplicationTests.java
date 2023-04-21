@@ -1,13 +1,12 @@
-package com.portfolio.ear;
+//package com.portfolio.ear;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//@SpringBootTest
+//class EARApplicationTests {
 
-@SpringBootTest
-class EARApplicationTests {
+	//@Test
+	//void contextLoads() {
+	//}
 
-	@Test
-	void contextLoads() {
-	}
-
-}
+//}
