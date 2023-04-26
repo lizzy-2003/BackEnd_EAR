@@ -25,14 +25,14 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- *
- * @author Gonzalo
- */
+
+ 
+
+ 
 
 @RestController
 @RequestMapping("/explab")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = " https://porfolio23.web.app")
 public class CExperiencia {
     @Autowired
     SExperiencia sExperiencia;
